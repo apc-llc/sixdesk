@@ -1,0 +1,1001 @@
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/guest/sixdesk/!svn/ver/31/sixjobs/scripts
+END
+myplot_DA
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/guest/sixdesk/!svn/ver/2/sixjobs/scripts/myplot_DA
+END
+myupdate_sixjobs
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/guest/sixdesk/!svn/ver/2/sixjobs/scripts/myupdate_sixjobs
+END
+compare_DA
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/guest/sixdesk/!svn/ver/2/sixjobs/scripts/compare_DA
+END
+check_seds
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/guest/sixdesk/!svn/ver/2/sixjobs/scripts/check_seds
+END
+mydot_taskgroup
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/guest/sixdesk/!svn/ver/2/sixjobs/scripts/mydot_taskgroup
+END
+check_incomplete
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/guest/sixdesk/!svn/ver/2/sixjobs/scripts/check_incomplete
+END
+dot_env
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/guest/sixdesk/!svn/ver/3/sixjobs/scripts/dot_env
+END
+myjoin_bnl
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/guest/sixdesk/!svn/ver/2/sixjobs/scripts/myjoin_bnl
+END
+add_boinc_user
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/guest/sixdesk/!svn/ver/9/sixjobs/scripts/add_boinc_user
+END
+set_env
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/guest/sixdesk/!svn/ver/3/sixjobs/scripts/set_env
+END
+sedchrom
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/guest/sixdesk/!svn/ver/2/sixjobs/scripts/sedchrom
+END
+myrun_bnl
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/guest/sixdesk/!svn/ver/31/sixjobs/scripts/myrun_bnl
+END
+plot1.template
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/guest/sixdesk/!svn/ver/2/sixjobs/scripts/plot1.template
+END
+mycheck_envs
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/guest/sixdesk/!svn/ver/2/sixjobs/scripts/mycheck_envs
+END
+mymywhich
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/guest/sixdesk/!svn/ver/7/sixjobs/scripts/mymywhich
+END
+compare_envs
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/guest/sixdesk/!svn/ver/2/sixjobs/scripts/compare_envs
+END
+mydocompare_DA
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/guest/sixdesk/!svn/ver/2/sixjobs/scripts/mydocompare_DA
+END
+mycorrect_cases.orig
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/guest/sixdesk/!svn/ver/2/sixjobs/scripts/mycorrect_cases.orig
+END
+run_results
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/guest/sixdesk/!svn/ver/31/sixjobs/scripts/run_results
+END
+mycheck_amps3
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/guest/sixdesk/!svn/ver/2/sixjobs/scripts/mycheck_amps3
+END
+get_wpro
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/guest/sixdesk/!svn/ver/8/sixjobs/scripts/get_wpro
+END
+mybackup_workspace
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/guest/sixdesk/!svn/ver/31/sixjobs/scripts/mybackup_workspace
+END
+delete_study
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/guest/sixdesk/!svn/ver/2/sixjobs/scripts/delete_study
+END
+bnl_results
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/guest/sixdesk/!svn/ver/2/sixjobs/scripts/bnl_results
+END
+compare_scripts
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/guest/sixdesk/!svn/ver/31/sixjobs/scripts/compare_scripts
+END
+myrun_incomplete_tasks
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/guest/sixdesk/!svn/ver/2/sixjobs/scripts/myrun_incomplete_tasks
+END
+delete_cpss_tasks
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/guest/sixdesk/!svn/ver/2/sixjobs/scripts/delete_cpss_tasks
+END
+dot_bsub
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/guest/sixdesk/!svn/ver/2/sixjobs/scripts/dot_bsub
+END
+compare_myscripts
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/guest/sixdesk/!svn/ver/2/sixjobs/scripts/compare_myscripts
+END
+sedbunch_charge
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/guest/sixdesk/!svn/ver/2/sixjobs/scripts/sedbunch_charge
+END
+mydelete_cpss_tasks
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/guest/sixdesk/!svn/ver/2/sixjobs/scripts/mydelete_cpss_tasks
+END
+doplot_DA
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/guest/sixdesk/!svn/ver/2/sixjobs/scripts/doplot_DA
+END
+dot_task
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/guest/sixdesk/!svn/ver/2/sixjobs/scripts/dot_task
+END
+plot2.template
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/guest/sixdesk/!svn/ver/2/sixjobs/scripts/plot2.template
+END
+mydoplot_DA
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/guest/sixdesk/!svn/ver/2/sixjobs/scripts/mydoplot_DA
+END
+status_all
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/guest/sixdesk/!svn/ver/2/sixjobs/scripts/status_all
+END
+stable2.awk
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/guest/sixdesk/!svn/ver/2/sixjobs/scripts/stable2.awk
+END
+myrun_missing_jobs
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/guest/sixdesk/!svn/ver/2/sixjobs/scripts/myrun_missing_jobs
+END
+update_sixjobs
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/guest/sixdesk/!svn/ver/2/sixjobs/scripts/update_sixjobs
+END
+run_six
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/guest/sixdesk/!svn/ver/21/sixjobs/scripts/run_six
+END
+mydorun_mad6t
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/guest/sixdesk/!svn/ver/5/sixjobs/scripts/mydorun_mad6t
+END
+bresume_all
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/guest/sixdesk/!svn/ver/2/sixjobs/scripts/bresume_all
+END
+mydelete_all_error_results
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/guest/sixdesk/!svn/ver/2/sixjobs/scripts/mydelete_all_error_results
+END
+mycompare_inputs
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/guest/sixdesk/!svn/ver/23/sixjobs/scripts/mycompare_inputs
+END
+run_mad6t
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/guest/sixdesk/!svn/ver/2/sixjobs/scripts/run_mad6t
+END
+myprepare_bnl
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/guest/sixdesk/!svn/ver/2/sixjobs/scripts/myprepare_bnl
+END
+check_all_locks
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/guest/sixdesk/!svn/ver/18/sixjobs/scripts/check_all_locks
+END
+rerun_all_cases
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/guest/sixdesk/!svn/ver/2/sixjobs/scripts/rerun_all_cases
+END
+myunlock
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/guest/sixdesk/!svn/ver/3/sixjobs/scripts/myunlock
+END
+mycheck_incomplete
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/guest/sixdesk/!svn/ver/2/sixjobs/scripts/mycheck_incomplete
+END
+check_envs
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/guest/sixdesk/!svn/ver/2/sixjobs/scripts/check_envs
+END
+run_post
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/guest/sixdesk/!svn/ver/7/sixjobs/scripts/run_post
+END
+mycheck_locks
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/guest/sixdesk/!svn/ver/18/sixjobs/scripts/mycheck_locks
+END
+create_protection_group
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/guest/sixdesk/!svn/ver/31/sixjobs/scripts/create_protection_group
+END
+createDAsurv
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/guest/sixdesk/!svn/ver/2/sixjobs/scripts/createDAsurv
+END
+acrontab.entry
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/guest/sixdesk/!svn/ver/2/sixjobs/scripts/acrontab.entry
+END
+docompare_results
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/guest/sixdesk/!svn/ver/31/sixjobs/scripts/docompare_results
+END
+backup_study
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/guest/sixdesk/!svn/ver/2/sixjobs/scripts/backup_study
+END
+mydocompare_results
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/guest/sixdesk/!svn/ver/31/sixjobs/scripts/mydocompare_results
+END
+sub_wpro
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/guest/sixdesk/!svn/ver/8/sixjobs/scripts/sub_wpro
+END
+mydelete_study
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/guest/sixdesk/!svn/ver/2/sixjobs/scripts/mydelete_study
+END
+mybnl_arrays
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/guest/sixdesk/!svn/ver/2/sixjobs/scripts/mybnl_arrays
+END
+run_awk
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/guest/sixdesk/!svn/ver/2/sixjobs/scripts/run_awk
+END
+mydot_bsub
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/guest/sixdesk/!svn/ver/2/sixjobs/scripts/mydot_bsub
+END
+check_mad6t
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/guest/sixdesk/!svn/ver/2/sixjobs/scripts/check_mad6t
+END
+getlocks
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/guest/sixdesk/!svn/ver/2/sixjobs/scripts/getlocks
+END
+mydot_profile
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/guest/sixdesk/!svn/ver/2/sixjobs/scripts/mydot_profile
+END
+sedlog
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/guest/sixdesk/!svn/ver/2/sixjobs/scripts/sedlog
+END
+myrun_status
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/guest/sixdesk/!svn/ver/2/sixjobs/scripts/myrun_status
+END
+mydot_task
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/guest/sixdesk/!svn/ver/2/sixjobs/scripts/mydot_task
+END
+krun
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/guest/sixdesk/!svn/ver/8/sixjobs/scripts/krun
+END
+recall_workspace
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/guest/sixdesk/!svn/ver/21/sixjobs/scripts/recall_workspace
+END
+plot_DA
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/guest/sixdesk/!svn/ver/2/sixjobs/scripts/plot_DA
+END
+myget_all_betavalues
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/guest/sixdesk/!svn/ver/2/sixjobs/scripts/myget_all_betavalues
+END
+compare_inputs
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/guest/sixdesk/!svn/ver/23/sixjobs/scripts/compare_inputs
+END
+recall_study
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/guest/sixdesk/!svn/ver/21/sixjobs/scripts/recall_study
+END
+mycheck_lock
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/guest/sixdesk/!svn/ver/2/sixjobs/scripts/mycheck_lock
+END
+unlock
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/guest/sixdesk/!svn/ver/3/sixjobs/scripts/unlock
+END
+check_amps10
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/guest/sixdesk/!svn/ver/2/sixjobs/scripts/check_amps10
+END
+run_bnl
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/guest/sixdesk/!svn/ver/31/sixjobs/scripts/run_bnl
+END
+update_incomplete
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/guest/sixdesk/!svn/ver/2/sixjobs/scripts/update_incomplete
+END
+run_incomplete_cases
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/guest/sixdesk/!svn/ver/2/sixjobs/scripts/run_incomplete_cases
+END
+myprologue
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/guest/sixdesk/!svn/ver/2/sixjobs/scripts/myprologue
+END
+DAsurv.tex
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/guest/sixdesk/!svn/ver/2/sixjobs/scripts/DAsurv.tex
+END
+mydot_env
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/guest/sixdesk/!svn/ver/3/sixjobs/scripts/mydot_env
+END
+print_env
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/guest/sixdesk/!svn/ver/2/sixjobs/scripts/print_env
+END
+myupdate_incomplete
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/guest/sixdesk/!svn/ver/2/sixjobs/scripts/myupdate_incomplete
+END
+mywhich
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/guest/sixdesk/!svn/ver/7/sixjobs/scripts/mywhich
+END
+myset_env
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/guest/sixdesk/!svn/ver/3/sixjobs/scripts/myset_env
+END
+check_studies
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/guest/sixdesk/!svn/ver/2/sixjobs/scripts/check_studies
+END
+compare_DAS
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/guest/sixdesk/!svn/ver/2/sixjobs/scripts/compare_DAS
+END
+myrun_post
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/guest/sixdesk/!svn/ver/7/sixjobs/scripts/myrun_post
+END
+check_amps3
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/guest/sixdesk/!svn/ver/2/sixjobs/scripts/check_amps3
+END
+allscripts
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/guest/sixdesk/!svn/ver/31/sixjobs/scripts/allscripts
+END
+check_really
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/guest/sixdesk/!svn/ver/2/sixjobs/scripts/check_really
+END
+clone_w
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/guest/sixdesk/!svn/ver/2/sixjobs/scripts/clone_w
+END
+run_many_problem_cases
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/guest/sixdesk/!svn/ver/23/sixjobs/scripts/run_many_problem_cases
+END
+domyseds
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/guest/sixdesk/!svn/ver/2/sixjobs/scripts/domyseds
+END
+update_scripts
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/guest/sixdesk/!svn/ver/2/sixjobs/scripts/update_scripts
+END
+myrun_results
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/guest/sixdesk/!svn/ver/31/sixjobs/scripts/myrun_results
+END
+bnl_arrays
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/guest/sixdesk/!svn/ver/2/sixjobs/scripts/bnl_arrays
+END
+allmyseds
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/guest/sixdesk/!svn/ver/2/sixjobs/scripts/allmyseds
+END
+README
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/guest/sixdesk/!svn/ver/21/sixjobs/scripts/README
+END
+mycheck_jobs
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/guest/sixdesk/!svn/ver/2/sixjobs/scripts/mycheck_jobs
+END
+dot_boinc
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/guest/sixdesk/!svn/ver/31/sixjobs/scripts/dot_boinc
+END
+mybnl_results
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/guest/sixdesk/!svn/ver/2/sixjobs/scripts/mybnl_results
+END
+run_missing_tasks
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/guest/sixdesk/!svn/ver/2/sixjobs/scripts/run_missing_tasks
+END
+run_problem_cases
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/guest/sixdesk/!svn/ver/23/sixjobs/scripts/run_problem_cases
+END
+mybackup_study
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/guest/sixdesk/!svn/ver/2/sixjobs/scripts/mybackup_study
+END
+myrun_status.vnewropy
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/guest/sixdesk/!svn/ver/2/sixjobs/scripts/myrun_status.vnewropy
+END
+mydot_boinc
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/guest/sixdesk/!svn/ver/31/sixjobs/scripts/mydot_boinc
+END
+compare_results
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/guest/sixdesk/!svn/ver/2/sixjobs/scripts/compare_results
+END
+run_status
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/guest/sixdesk/!svn/ver/2/sixjobs/scripts/run_status
+END
+myrun_problem_cases
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/guest/sixdesk/!svn/ver/23/sixjobs/scripts/myrun_problem_cases
+END
+myrun_missing_tasks
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/guest/sixdesk/!svn/ver/2/sixjobs/scripts/myrun_missing_tasks
+END
+mycheck_joined10
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/guest/sixdesk/!svn/ver/2/sixjobs/scripts/mycheck_joined10
+END
+myrun_status.orig
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/guest/sixdesk/!svn/ver/2/sixjobs/scripts/myrun_status.orig
+END
+sedpmass
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/guest/sixdesk/!svn/ver/2/sixjobs/scripts/sedpmass
+END
+dorun_mad6t
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/guest/sixdesk/!svn/ver/5/sixjobs/scripts/dorun_mad6t
+END
+get_all_betavalues
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/guest/sixdesk/!svn/ver/2/sixjobs/scripts/get_all_betavalues
+END
+check_lock
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/guest/sixdesk/!svn/ver/2/sixjobs/scripts/check_lock
+END
+compare_studies
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/guest/sixdesk/!svn/ver/2/sixjobs/scripts/compare_studies
+END
+myrecall_workspace
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/guest/sixdesk/!svn/ver/21/sixjobs/scripts/myrecall_workspace
+END
+compare_workspaces
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/guest/sixdesk/!svn/ver/2/sixjobs/scripts/compare_workspaces
+END
+prepare_bnl
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/guest/sixdesk/!svn/ver/2/sixjobs/scripts/prepare_bnl
+END
+myunlock_all
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/guest/sixdesk/!svn/ver/2/sixjobs/scripts/myunlock_all
+END
+join_bnl
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/guest/sixdesk/!svn/ver/2/sixjobs/scripts/join_bnl
+END
+myrun_join10
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/guest/sixdesk/!svn/ver/2/sixjobs/scripts/myrun_join10
+END
+stable.awk
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/guest/sixdesk/!svn/ver/2/sixjobs/scripts/stable.awk
+END
+minav.awk
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/guest/sixdesk/!svn/ver/2/sixjobs/scripts/minav.awk
+END
+myrun_six
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/guest/sixdesk/!svn/ver/21/sixjobs/scripts/myrun_six
+END
+delete_errors
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/guest/sixdesk/!svn/ver/2/sixjobs/scripts/delete_errors
+END
+myrecall_study
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/guest/sixdesk/!svn/ver/21/sixjobs/scripts/myrecall_study
+END
+mydelete_errors
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/guest/sixdesk/!svn/ver/2/sixjobs/scripts/mydelete_errors
+END
+mycheck_amps10
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/guest/sixdesk/!svn/ver/2/sixjobs/scripts/mycheck_amps10
+END
+myrun_status.new
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/guest/sixdesk/!svn/ver/2/sixjobs/scripts/myrun_status.new
+END
+mycheck_all_locks
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/guest/sixdesk/!svn/ver/18/sixjobs/scripts/mycheck_all_locks
+END
+myrun_incomplete_cases
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/guest/sixdesk/!svn/ver/2/sixjobs/scripts/myrun_incomplete_cases
+END
+sedbnl
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/guest/sixdesk/!svn/ver/2/sixjobs/scripts/sedbnl
+END
+myrerun_all_cases
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/guest/sixdesk/!svn/ver/2/sixjobs/scripts/myrerun_all_cases
+END
+check_locks
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/guest/sixdesk/!svn/ver/18/sixjobs/scripts/check_locks
+END
+sedboincnames
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/guest/sixdesk/!svn/ver/2/sixjobs/scripts/sedboincnames
+END
+docompare_DA
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/guest/sixdesk/!svn/ver/2/sixjobs/scripts/docompare_DA
+END
+correct_cases
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/guest/sixdesk/!svn/ver/2/sixjobs/scripts/correct_cases
+END
+backup_workspace
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/guest/sixdesk/!svn/ver/21/sixjobs/scripts/backup_workspace
+END
+mycorrect_cases
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/guest/sixdesk/!svn/ver/2/sixjobs/scripts/mycorrect_cases
+END
+run_incomplete_tasks
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/guest/sixdesk/!svn/ver/2/sixjobs/scripts/run_incomplete_tasks
+END
+run_query
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/guest/sixdesk/!svn/ver/2/sixjobs/scripts/run_query
+END
+check_jobs
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/guest/sixdesk/!svn/ver/2/sixjobs/scripts/check_jobs
+END
+mycheck_really
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/guest/sixdesk/!svn/ver/2/sixjobs/scripts/mycheck_really
+END
+exec_env
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/guest/sixdesk/!svn/ver/2/sixjobs/scripts/exec_env
+END
+sedcron
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/guest/sixdesk/!svn/ver/2/sixjobs/scripts/sedcron
+END
+query_all
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/guest/sixdesk/!svn/ver/2/sixjobs/scripts/query_all
+END
+myrun_query
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/guest/sixdesk/!svn/ver/2/sixjobs/scripts/myrun_query
+END
+sedexes
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/guest/sixdesk/!svn/ver/2/sixjobs/scripts/sedexes
+END
+check_joined10
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/guest/sixdesk/!svn/ver/2/sixjobs/scripts/check_joined10
+END
+dot_profile
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/guest/sixdesk/!svn/ver/2/sixjobs/scripts/dot_profile
+END
+sedtune
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/guest/sixdesk/!svn/ver/2/sixjobs/scripts/sedtune
+END
+run_missing_jobs
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/guest/sixdesk/!svn/ver/2/sixjobs/scripts/run_missing_jobs
+END
+myrun_awk
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/guest/sixdesk/!svn/ver/2/sixjobs/scripts/myrun_awk
+END
+mycheck_mad6t
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/guest/sixdesk/!svn/ver/2/sixjobs/scripts/mycheck_mad6t
+END
+bstop_all
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/guest/sixdesk/!svn/ver/2/sixjobs/scripts/bstop_all
+END
+unlock_all
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/guest/sixdesk/!svn/ver/2/sixjobs/scripts/unlock_all
+END
+delete_all_error_results
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/guest/sixdesk/!svn/ver/2/sixjobs/scripts/delete_all_error_results
+END
+run_join10
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/guest/sixdesk/!svn/ver/2/sixjobs/scripts/run_join10
+END
+dot_taskgroup
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/guest/sixdesk/!svn/ver/2/sixjobs/scripts/dot_taskgroup
+END

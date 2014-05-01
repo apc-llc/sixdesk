@@ -1,0 +1,149 @@
+K 25
+svn:wc:ra_dav:version-url
+V 34
+/guest/sixdesk/!svn/ver/30/sixtest
+END
+README
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/guest/sixdesk/!svn/ver/25/sixtest/README
+END
+check_results
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/guest/sixdesk/!svn/ver/28/sixtest/check_results
+END
+try_pro
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/guest/sixdesk/!svn/ver/25/sixtest/try_pro
+END
+comp_10
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/guest/sixdesk/!svn/ver/27/sixtest/comp_10
+END
+mycomptens
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/guest/sixdesk/!svn/ver/10/sixtest/mycomptens
+END
+trygraphics
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/guest/sixdesk/!svn/ver/7/sixtest/trygraphics
+END
+run_bnl
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/guest/sixdesk/!svn/ver/10/sixtest/run_bnl
+END
+batch_pro
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/guest/sixdesk/!svn/ver/25/sixtest/batch_pro
+END
+batch.lsf
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/guest/sixdesk/!svn/ver/25/sixtest/batch.lsf
+END
+run
+K 25
+svn:wc:ra_dav:version-url
+V 38
+/guest/sixdesk/!svn/ver/29/sixtest/run
+END
+try_bnl
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/guest/sixdesk/!svn/ver/7/sixtest/try_bnl
+END
+svn_status
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/guest/sixdesk/!svn/ver/25/sixtest/svn_status
+END
+mychecktens
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/guest/sixdesk/!svn/ver/14/sixtest/mychecktens
+END
+check_10
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/guest/sixdesk/!svn/ver/27/sixtest/check_10
+END
+run_coll
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/guest/sixdesk/!svn/ver/10/sixtest/run_coll
+END
+try
+K 25
+svn:wc:ra_dav:version-url
+V 38
+/guest/sixdesk/!svn/ver/30/sixtest/try
+END
+run_kill
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/guest/sixdesk/!svn/ver/29/sixtest/run_kill
+END
+batch_kill.lsf
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/guest/sixdesk/!svn/ver/25/sixtest/batch_kill.lsf
+END
+batch
+K 25
+svn:wc:ra_dav:version-url
+V 40
+/guest/sixdesk/!svn/ver/25/sixtest/batch
+END
+batch_pro.lsf
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/guest/sixdesk/!svn/ver/25/sixtest/batch_pro.lsf
+END
+run_pro
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/guest/sixdesk/!svn/ver/29/sixtest/run_pro
+END
+try_coll
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/guest/sixdesk/!svn/ver/10/sixtest/try_coll
+END
+try_kill
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/guest/sixdesk/!svn/ver/30/sixtest/try_kill
+END
+batch_kill
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/guest/sixdesk/!svn/ver/25/sixtest/batch_kill
+END
